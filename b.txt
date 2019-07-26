@@ -2,10 +2,8 @@ sss
 ccc
 ddd
 sss
-<<<<<<< HEAD
 enenne
 qqqq
-=======
+
 e
-sbihcabubsuohncoi soicjoi-0000nenne
->>>>>>> oo
+
